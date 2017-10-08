@@ -1,363 +1,323 @@
-[
-	{
-		"id": 1001,
-		"name": "FBB",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/fbb.png",
-		"categories": [
-			"Title Sponsor",
-			"A'la Mode"
-		],
-		"website": "http://www.fbbonline.in/",
-		"priority": 5
-	},
-	{
-		"id": 1002,
-		"name": "Saavn",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/saavn.png",
-		"categories": [
-			"Online Music Streaming Partner"
-		],
-		"website": "https://www.saavn.com/",
-		"priority": 10
-	},
-	{
-		"id": 1003,
-		"name": "The College Fever",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/the_college_fever.png",
-		"categories": [
-			"Online Ticket Partner"
-		],
-		"website": "https://www.thecollegefever.com/",
-		"priority": 10
-	},
-	{
-		"id": 1004,
-		"name": "ZNetLive",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/znetlive.png",
-		"categories": [
-			"Web Hosting Partner"
-		],
-		"website": "https://www.znetlive.com/",
-		"priority": 10
-	},
-	{
-		"id": 1005,
-		"name": "Atlas Cycles",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/atlas_cycles.jpg",
-		"categories": [
-			"Mobility Partner"
-		],
-		"website": "www.atlascycles.co.in/",
-		"priority": 12
-	},
-	{
-		"id": 1006,
-		"name": "Paisa Wapas",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/paisa_wapas.png",
-		"categories": [
-			"Cashback Partner"
-		],
-		"website": "https://www.paisawapas.com/",
-		"priority": 11
-	},
-	{
-		"id": 1007,
-		"name": "Nescafe Labs",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/nescafe_labs.png",
-		"categories": [
-			"Talent Partner"
-		],
-		"website": "www.mtvindia.com/labs/",
-		"priority": 11
-	},
-	{
-		"id": 1008,
-		"name": "Baskin Robbins",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/baskin_robbins.png",
-		"categories": [
-			"Food Partner"
-		],
-		"website": "www.baskinrobbinsindia.com/",
-		"priority": 10
-	},
-	{
-		"id": 1009,
-		"name": "Six Strings",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/six_strings.jpg",
-		"categories": [
-			"Recording Partner"
-		],
-		"website": "www.thesixstrings.com/",
-		"priority": 12
-	},
-	{
-		"id": 1010,
-		"name": "ManForce",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/manforce.png",
-		"categories": [
-			"Protection Partner"
-		],
-		"website": "https://manforcecondoms.com/",
-		"priority": 11
-	},
-	{
-		"id": 1011,
-		"name": "Brain Buxa",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/brain_buxa.png",
-		"categories": [
-			"Online Media Partner"
-		],
-		"website": "https://www.brainbuxa.com/",
-		"priority": 10
-	},
-	{
-		"id": 1012,
-		"name": "T.I.M.E.",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/time.jpg",
-		"categories": [
-			"Education Partner"
-		],
-		"website": "https://www.time4education.com/",
-		"priority": 11
-	},
-	{
-		"id": 1013,
-		"name": "Pind Balluchi",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/pind_balluchi.png",
-		"categories": [
-			"Celebrity Food Partner"
-		],
-		"website": "www.pindballuchi.com/",
-		"priority": 12
-	},
-	{
-		"id": 1014,
-		"name": "Student Stories",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/student_stories.png",
-		"categories": [
-			"Online Media Partner"
-		],
-		"website": "https://www.paisawapas.com/student-stories/",
-		"priority": 10
-	},
-	{
-		"id": 1015,
-		"name": "blogadda",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/blogadda.png",
-		"categories": [
-			"Blogger Outreach Partner"
-		],
-		"website": "www.blogadda.com/",
-		"priority": 12
-	},
-	{
-		"id": 1016,
-		"name": "R D Advertising",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/rd_advertising.png",
-		"categories": [
-			"Branding Partner"
-		],
-		"website": "www.rdadvertising.org/",
-		"priority": 13
-	},
-	{
-		"id": 1017,
-		"name": "Comio India",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/comio.png",
-		"categories": [
-			"Title Sponsor"
-		],
-		"website": "https://www.comio.in/",
-		"priority": 0
-	}
-	{
-		"id": 1501,
-		"name": "Dainik Bhaskar",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/dainik.png",
-		"categories": [
-			"Digital Media Partner"
-		],
-		"website": "https://www.bhaskar.com/",
-		"priority": 0
-	}
-	{
-		"id": 1502,
-		"name": "Viacom18",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/via1.png",
-		"categories": [
-			"Supersonic Night"
-		],
-		"website": "http://www.colorstv.com/in/",
-		"priority": 0
-	}
-	{
-		"id": 1503,
-		"name": "Fest Samachar",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/fests.jpg",
-		"categories": [
-			"Online Promotional Partner"
-		],
-		"website": "http://www.festsamachar.com/",
-		"priority": 0
-	}
-	{
-		"id": 1504,
-		"name": "PokerBaazi",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/poker.png",
-		"categories": [
-			"Poker Partner"
-		],
-		"website": "https://www.pokerbaazi.com/",
-		"priority": 0
-	}
-	{
-		"id": 1505,
-		"name": "go krazee",
-		"imageUrl": "",
-		"categories": [
-			"Event Sponsor"
-		],
-		"website": "",
-		"priority": 0
-	}
-	{
-		"id": 1506,
-		"name": "Awesong",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/awesong.png",
-		"categories": [
-			"Online Promotional Partner"
-		],
-		"website": "http://awesong.in/",
-		"priority": 0
-	}
-	{
-		"id": 1507,
-		"name": "MTV Beats",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/mtv.png",
-		"categories": [
-			"Beats Night(Celeb Night)"
-		],
-		"website": "http://www.mtvbeats.in/",
-		"priority": 0
-	}
-	{
-		"id": 1508,
-		"name": "Teach for India",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/teach.png",
-		"categories": [
-			"Social Cause Partner"
-		],
-		"website": "http://www.teachforindia.org/",
-		"priority": 0
-	}
-	{
-		"id": 1509,
-		"name": "SBI",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/sbi.jpg",
-		"categories": [
-			"Banking Partner"
-		],
-		"website": "https://www.sbi.co.in/",
-		"priority": 0
-	}
-	{
-		"id": 1510,
-		"name": "IOB",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/iob.png",
-		"categories": [
-			"Banking Partner"
-		],
-		"website": "https://www.iob.in/",
-		"priority": 0
-	}{
-		"id": 1511,
-		"name": "HDFC",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/hdfc.png",
-		"categories": [
-			"Banking Partner"
-		],
-		"website": "https://www.hdfcbank.com/",
-		"priority": 0
-	}
-	{
-		"id": 1512,
-		"name": "BOB",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/bob.jpg",
-		"categories": [
-			"Banking Partner"
-		],
-		"website": "https://www.bankofbaroda.co.in/",
-		"priority": 0
-	}
-	{
-		"id": 1513,
-		"name": "PNB",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/pnb.png",
-		"categories": [
-			"Banking Partner"
-		],
-		"website": "https://www.pnbindia.in/",
-		"priority": 0
-	}
-	{
-		"id": 1514,
-		"name": "Canara",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/canara-bank.png",
-		"categories": [
-			"Banking Partner"
-		],
-		"website": "https://www.canarabank.in/",
-		"priority": 0
-	}
-	{
-		"id": 1515,
-		"name": "Eventzers",
-		"imageUrl": "",
-		"categories": [
-			"Online Media Partner"
-		],
-		"website": "",
-		"priority": 0
-	}
-	{
-		"id": 1516,
-		"name": "Grapevine",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/grapewine.png",
-		"categories": [
-			"Youth Partner"
-		],
-		"website": "http://www.thegrapevine.co.in/",
-		"priority": 0
-	}
-	{
-		"id": 1517,
-		"name": "S.S Paints",
-		"imageUrl": "",
-		"categories": [
-			"Event Sponsor"
-		],
-		"website": "https://www.indiamart.com/ss-paints/",
-		"priority": 0
-	}
-	{
-		"id": 1518,
-		"name": "Bun's Gym",
-		"imageUrl": "",
-		"categories": [
-			"Event Sponsor"
-		],
-		"website": "",
-		"priority": 0
-	}
-	{
-		"id": 1519,
-		"name": "Embassy of Israel",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/embassy.PNG",
-		"categories": [
-			"Event Sponsor"
-		],
-		"website": "http://embassies.gov.il/delhi/Pages/default.aspx",
-		"priority": 0
-	}
-
+[  
+   {  
+      "id":1001,
+      "name":"FBB",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/fbb.png",
+      "categories":[  
+         "Title Sponsor",
+         "A'la Mode"
+      ],
+      "website":"http://www.fbbonline.in/",
+      "priority":5
+   },
+   {  
+      "id":1002,
+      "name":"Saavn",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/saavn.png",
+      "categories":[  
+         "Online Music Streaming Partner"
+      ],
+      "website":"https://www.saavn.com/",
+      "priority":10
+   },
+   {  
+      "id":1003,
+      "name":"The College Fever",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/the_college_fever.png",
+      "categories":[  
+         "Online Ticket Partner"
+      ],
+      "website":"https://www.thecollegefever.com/",
+      "priority":10
+   },
+   {  
+      "id":1004,
+      "name":"ZNetLive",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/znetlive.png",
+      "categories":[  
+         "Web Hosting Partner"
+      ],
+      "website":"https://www.znetlive.com/",
+      "priority":10
+   },
+   {  
+      "id":1005,
+      "name":"Atlas Cycles",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/atlas_cycles.jpg",
+      "categories":[  
+         "Mobility Partner"
+      ],
+      "website":"www.atlascycles.co.in/",
+      "priority":12
+   },
+   {  
+      "id":1006,
+      "name":"Paisa Wapas",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/paisa_wapas.png",
+      "categories":[  
+         "Cashback Partner"
+      ],
+      "website":"https://www.paisawapas.com/",
+      "priority":11
+   },
+   {  
+      "id":1007,
+      "name":"Nescafe Labs",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/nescafe_labs.png",
+      "categories":[  
+         "Talent Partner"
+      ],
+      "website":"www.mtvindia.com/labs/",
+      "priority":11
+   },
+   {  
+      "id":1008,
+      "name":"Baskin Robbins",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/baskin_robbins.png",
+      "categories":[  
+         "Food Partner"
+      ],
+      "website":"www.baskinrobbinsindia.com/",
+      "priority":10
+   },
+   {  
+      "id":1009,
+      "name":"Six Strings",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/six_strings.jpg",
+      "categories":[  
+         "Recording Partner"
+      ],
+      "website":"www.thesixstrings.com/",
+      "priority":12
+   },
+   {  
+      "id":1010,
+      "name":"ManForce",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/manforce.png",
+      "categories":[  
+         "Protection Partner"
+      ],
+      "website":"https://manforcecondoms.com/",
+      "priority":11
+   },
+   {  
+      "id":1011,
+      "name":"Brain Buxa",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/brain_buxa.png",
+      "categories":[  
+         "Online Media Partner"
+      ],
+      "website":"https://www.brainbuxa.com/",
+      "priority":10
+   },
+   {  
+      "id":1012,
+      "name":"T.I.M.E.",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/time.jpg",
+      "categories":[  
+         "Education Partner"
+      ],
+      "website":"https://www.time4education.com/",
+      "priority":11
+   },
+   {  
+      "id":1013,
+      "name":"Pind Balluchi",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/pind_balluchi.png",
+      "categories":[  
+         "Celebrity Food Partner"
+      ],
+      "website":"www.pindballuchi.com/",
+      "priority":12
+   },
+   {  
+      "id":1014,
+      "name":"Student Stories",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/student_stories.png",
+      "categories":[  
+         "Online Media Partner"
+      ],
+      "website":"https://www.paisawapas.com/student-stories/",
+      "priority":10
+   },
+   {  
+      "id":1015,
+      "name":"blogadda",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/blogadda.png",
+      "categories":[  
+         "Blogger Outreach Partner"
+      ],
+      "website":"www.blogadda.com/",
+      "priority":12
+   },
+   {  
+      "id":1016,
+      "name":"R D Advertising",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/rd_advertising.png",
+      "categories":[  
+         "Branding Partner"
+      ],
+      "website":"www.rdadvertising.org/",
+      "priority":13
+   },
+   {  
+      "id":1017,
+      "name":"Comio India",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/comio.png",
+      "categories":[  
+         "Title Sponsor"
+      ],
+      "website":"https://www.comio.in/",
+      "priority":0
+   },
+   {  
+      "id":1501,
+      "name":"Dainik Bhaskar",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/dainik.png",
+      "categories":[  
+         "Digital Media Partner"
+      ],
+      "website":"https://www.bhaskar.com/",
+      "priority":5
+   },
+   {  
+      "id":1502,
+      "name":"Viacom18",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/via1.png",
+      "categories":[  
+         "Supersonic Night"
+      ],
+      "website":"http://www.colorstv.com/in/",
+      "priority":1
+   },
+   {  
+      "id":1503,
+      "name":"Fest Samachar",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/fests.jpg",
+      "categories":[  
+         "Online Promotional Partner"
+      ],
+      "website":"http://www.festsamachar.com/",
+      "priority":5
+   },
+   {  
+      "id":1504,
+      "name":"PokerBaazi",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/poker.png",
+      "categories":[  
+         "Poker Partner"
+      ],
+      "website":"https://www.pokerbaazi.com/",
+      "priority":5
+   },
+   {  
+      "id":1506,
+      "name":"Awesong",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/awesong.png",
+      "categories":[  
+         "Online Promotional Partner"
+      ],
+      "website":"http://awesong.in/",
+      "priority":6
+   },
+   {  
+      "id":1507,
+      "name":"MTV Beats",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/mtv.png",
+      "categories":[  
+         "Beats Night(Celeb Night)"
+      ],
+      "website":"http://www.mtvbeats.in/",
+      "priority":4
+   },
+   {  
+      "id":1508,
+      "name":"Teach for India",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/teach.png",
+      "categories":[  
+         "Social Cause Partner"
+      ],
+      "website":"http://www.teachforindia.org/",
+      "priority":4
+   },
+   {  
+      "id":1509,
+      "name":"SBI",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/sbi.jpg",
+      "categories":[  
+         "Banking Partner"
+      ],
+      "website":"https://www.sbi.co.in/",
+      "priority":7
+   },
+   {  
+      "id":1510,
+      "name":"IOB",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/iob.png",
+      "categories":[  
+         "Banking Partner"
+      ],
+      "website":"https://www.iob.in/",
+      "priority":7
+   },
+   {  
+      "id":1511,
+      "name":"HDFC",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/hdfc.png",
+      "categories":[  
+         "Banking Partner"
+      ],
+      "website":"https://www.hdfcbank.com/",
+      "priority":7
+   },
+   {  
+      "id":1512,
+      "name":"BOB",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/bob.jpg",
+      "categories":[  
+         "Banking Partner"
+      ],
+      "website":"https://www.bankofbaroda.co.in/",
+      "priority":7
+   },
+   {  
+      "id":1513,
+      "name":"PNB",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/pnb.png",
+      "categories":[  
+         "Banking Partner"
+      ],
+      "website":"https://www.pnbindia.in/",
+      "priority":7
+   },
+   {  
+      "id":1514,
+      "name":"Canara",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/canara-bank.png",
+      "categories":[  
+         "Banking Partner"
+      ],
+      "website":"https://www.canarabank.in/",
+      "priority":7
+   },
+   {  
+      "id":1516,
+      "name":"Grapevine",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/grapewine.png",
+      "categories":[  
+         "Youth Partner"
+      ],
+      "website":"http://www.thegrapevine.co.in/",
+      "priority":6
+   },
+   {  
+      "id":1519,
+      "name":"Embassy of Israel",
+      "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/embassy.PNG",
+      "categories":[  
+         "Event Sponsor"
+      ],
+      "website":"http://embassies.gov.il/delhi/Pages/default.aspx",
+      "priority":10
+   }
 ]
