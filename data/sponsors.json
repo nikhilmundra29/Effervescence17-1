@@ -18,7 +18,7 @@
          "Online Music Streaming Partner"
       ],
       "website":"https://www.saavn.com/",
-      "priority":10
+      "priority":1
    },
    {  
       "id":1003,
@@ -28,7 +28,7 @@
          "Online Ticket Partner"
       ],
       "website":"https://www.thecollegefever.com/",
-      "priority":10
+      "priority":7
    },
    {  
       "id":1004,
@@ -38,7 +38,7 @@
          "Web Hosting Partner"
       ],
       "website":"https://www.znetlive.com/",
-      "priority":10
+      "priority":15
    },
    {  
       "id":1005,
@@ -48,7 +48,7 @@
          "Mobility Partner"
       ],
       "website":"www.atlascycles.co.in/",
-      "priority":12
+      "priority":3
    },
    {  
       "id":1006,
@@ -68,7 +68,7 @@
          "Talent Partner"
       ],
       "website":"www.mtvindia.com/labs/",
-      "priority":11
+      "priority":2
    },
    {  
       "id":1008,
@@ -78,7 +78,7 @@
          "Food Partner"
       ],
       "website":"www.baskinrobbinsindia.com/",
-      "priority":10
+      "priority":16
    },
    {  
       "id":1009,
@@ -88,7 +88,7 @@
          "Recording Partner"
       ],
       "website":"www.thesixstrings.com/",
-      "priority":12
+      "priority":6
    },
    {  
       "id":1010,
@@ -98,7 +98,7 @@
          "Protection Partner"
       ],
       "website":"https://manforcecondoms.com/",
-      "priority":11
+      "priority":4
    },
    {  
       "id":1011,
@@ -108,7 +108,7 @@
          "Online Media Partner"
       ],
       "website":"https://www.brainbuxa.com/",
-      "priority":10
+      "priority":12
    },
    {  
       "id":1012,
@@ -118,7 +118,7 @@
          "Education Partner"
       ],
       "website":"https://www.time4education.com/",
-      "priority":11
+      "priority":6
    },
    {  
       "id":1013,
@@ -128,7 +128,7 @@
          "Celebrity Food Partner"
       ],
       "website":"www.pindballuchi.com/",
-      "priority":12
+      "priority":10
    },
    {  
       "id":1014,
@@ -138,7 +138,7 @@
          "Online Media Partner"
       ],
       "website":"https://www.paisawapas.com/student-stories/",
-      "priority":10
+      "priority":12
    },
    {  
       "id":1015,
@@ -148,7 +148,7 @@
          "Blogger Outreach Partner"
       ],
       "website":"www.blogadda.com/",
-      "priority":12
+      "priority":14
    },
    {  
       "id":1016,
@@ -178,7 +178,7 @@
          "Digital Media Partner"
       ],
       "website":"https://www.bhaskar.com/",
-      "priority":5
+      "priority":13
    },
    {  
       "id":1502,
@@ -198,7 +198,7 @@
          "Online Promotional Partner"
       ],
       "website":"http://www.festsamachar.com/",
-      "priority":5
+      "priority":12
    },
    {  
       "id":1504,
@@ -208,7 +208,7 @@
          "Poker Partner"
       ],
       "website":"https://www.pokerbaazi.com/",
-      "priority":5
+      "priority":10
    },
    {  
       "id":1506,
@@ -218,7 +218,7 @@
          "Online Promotional Partner"
       ],
       "website":"http://awesong.in/",
-      "priority":6
+      "priority":10
    },
    {  
       "id":1507,
@@ -228,7 +228,7 @@
          "Beats Night(Celeb Night)"
       ],
       "website":"http://www.mtvbeats.in/",
-      "priority":4
+      "priority":1
    },
    {  
       "id":1508,
@@ -238,7 +238,7 @@
          "Social Cause Partner"
       ],
       "website":"http://www.teachforindia.org/",
-      "priority":4
+      "priority":8
    },
    {  
       "id":1509,
@@ -248,7 +248,7 @@
          "Banking Partner"
       ],
       "website":"https://www.sbi.co.in/",
-      "priority":7
+      "priority":9
    },
    {  
       "id":1510,
@@ -258,7 +258,7 @@
          "Banking Partner"
       ],
       "website":"https://www.iob.in/",
-      "priority":7
+      "priority":9
    },
    {  
       "id":1511,
@@ -268,7 +268,7 @@
          "Banking Partner"
       ],
       "website":"https://www.hdfcbank.com/",
-      "priority":7
+      "priority":9
    },
    {  
       "id":1512,
@@ -278,7 +278,7 @@
          "Banking Partner"
       ],
       "website":"https://www.bankofbaroda.co.in/",
-      "priority":7
+      "priority":9
    },
    {  
       "id":1513,
@@ -288,7 +288,7 @@
          "Banking Partner"
       ],
       "website":"https://www.pnbindia.in/",
-      "priority":7
+      "priority":9
    },
    {  
       "id":1514,
@@ -298,7 +298,7 @@
          "Banking Partner"
       ],
       "website":"https://www.canarabank.in/",
-      "priority":7
+      "priority":9
    },
    {  
       "id":1516,
@@ -308,7 +308,7 @@
          "Youth Partner"
       ],
       "website":"http://www.thegrapevine.co.in/",
-      "priority":6
+      "priority":13
    },
    {  
       "id":1519,
@@ -318,6 +318,6 @@
          "Event Sponsor"
       ],
       "website":"http://embassies.gov.il/delhi/Pages/default.aspx",
-      "priority":10
+      "priority":17
    }
 ]
